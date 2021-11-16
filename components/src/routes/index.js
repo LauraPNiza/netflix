@@ -53,7 +53,6 @@ export default function Routes(){
           )
         }}  
       />
-      />
     </Drawer.Navigator>
 
   );
